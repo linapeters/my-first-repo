@@ -1,3 +1,3 @@
 # my-first-repo
 ![picturelina](lina.jpg)
-[websitezuyd}(https://zuyd.nl)
+[websitezuyd](https://zuyd.nl)
